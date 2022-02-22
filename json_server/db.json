@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "HTML ,CSS",
+      "description": "Khóa học cơ bản cho người mới bắt đầu"
+    },
+    {
+      "name": "tip trick html css 2",
+      "description": "những kiến thức cần thiết để thực hiện htm css nhanh chóng 2",
+      "id": 2
+    },
+    {
+      "name": "Javascript cơ bản",
+      "description": "có những kiến thức nền tảng để xây dựng hiệu ứng web",
+      "id": 3
+    },
+    {
+      "name": "JavaScript Cơ Bản",
+      "description": "Các bạn subscribe kênh Youtube F8 Official để nhận thông báo khi có các bài học mới nhé ❤️",
+      "id": 5
+    },
+    {
+      "name": "cách để k reload lại trang",
+      "description": "code lại",
+      "id": 6
+    }
+  ]
+}
